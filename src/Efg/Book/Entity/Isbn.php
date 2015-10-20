@@ -6,7 +6,7 @@
  * @version 1.0.0
  * @package ISBN
 */
-namespace Abc\Book\Entity\Isbn;
+namespace Abc\Book\Entity;
 /**
  * ISBN
 */
