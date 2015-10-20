@@ -1,0 +1,13 @@
+{
+    "name": "abc/sdk",
+    "description": "This is abc package (independent of drupal version)",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Abc Efg",
+            "email": "abc@efg.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
