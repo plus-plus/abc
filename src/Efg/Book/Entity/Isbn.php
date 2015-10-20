@@ -3,10 +3,10 @@
  * ISBN
  *
  * @author Abc Efg <abc@efg.me>
- * @version 2.0.0
+ * @version 1.0.0
  * @package ISBN
 */
-namespace Isbn;
+namespace Abc\Book\Entity\Isbn;
 /**
  * ISBN
 */
